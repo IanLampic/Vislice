@@ -11,7 +11,6 @@ PORAZ = 'X'
 class Igra:
 
     def __init__(self, geslo, crke):
-        #Comment
         self.geslo = geslo
         self.crke = crke[:]
 

@@ -77,6 +77,7 @@ with open('besede.txt', 'r') as f:
 
 
 def nova_igra():
+    #comment
     geslo = random.choice(bazen_besed)
     return Igra(geslo, [])  
 

@@ -55,6 +55,7 @@ def izberi_ponovitev():
 
 
 def pozeni_vmesnik():
+    #temp comment
     igra = model.nova_igra()
     print(izpis_igre(igra))
     while True:

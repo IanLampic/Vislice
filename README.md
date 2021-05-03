@@ -5,6 +5,7 @@
 * Anja Petković
 * Matija Pretnar
 * Ian Lampič
+* Lojze Slak
 
 ## Opis
 

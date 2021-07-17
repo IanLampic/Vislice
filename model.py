@@ -52,7 +52,7 @@ class Igra:
 
 
     def nepravilni_ugibi(self):
-        return ' '.join(self.napacne_crke())  
+        return ' '.join(self.napacne_crke())
 
 
     def ugibaj(self, crka):
